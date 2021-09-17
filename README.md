@@ -122,3 +122,9 @@
 
 
 ## 교육
+
+* k8s와 gitlab(+ArgoCD)을 이용해 CI/CD 플랫폼 구축
+https://www.youtube.com/watch?v=-hO1m__aLu8
+
+
+
