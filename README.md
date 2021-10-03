@@ -50,6 +50,8 @@
 
 ## 사용 기술
 
+- Roadmap for Spring 6.0 and Spring Boot 3.0, OpenJDK and Quarkus Updates
+
 - https://start.spring.io/
 - https://github.com/docker-library/openjdk
 - https://gradle.org/releases/
