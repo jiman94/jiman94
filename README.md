@@ -55,6 +55,7 @@
 - https://gradle.org/releases/
 - https://maven.apache.org/download.cgi
 - https://github.com/GoogleContainerTools/kaniko
+- https://istio.io/latest/docs/setup/getting-started/
 
 ### MSA Cloud  
 - AWS 
