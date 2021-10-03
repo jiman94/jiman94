@@ -59,7 +59,7 @@
 - https://github.com/GoogleContainerTools/kaniko
 - https://istio.io/latest/docs/setup/getting-started/
 - https://sdkman.io/usage
-
+- https://code.visualstudio.com/docs/?dv=osx
 
 ### MSA Cloud  
 - AWS 
