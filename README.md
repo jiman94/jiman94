@@ -50,6 +50,11 @@
 
 ## 사용 기술
 
+- https://start.spring.io/
+- https://github.com/docker-library/openjdk
+- https://gradle.org/releases/
+- https://maven.apache.org/download.cgi
+
 ### MSA Cloud  
 - AWS 
 - Azure
