@@ -54,6 +54,7 @@
 - https://github.com/docker-library/openjdk
 - https://gradle.org/releases/
 - https://maven.apache.org/download.cgi
+- https://github.com/GoogleContainerTools/kaniko
 
 ### MSA Cloud  
 - AWS 
