@@ -96,7 +96,7 @@
 - 환경 : Linux, Oracle , Hadoop, Java, Centos , Tez, kafka, spark, hadoop, cep, drools
 
 #### 롯데정보통신 기술연구소 - 12년 5개월 ( 2003. 04 ~ 2015. 08 )
-- 35. 마크로빌
+- **35. 마크로빌**
 - 업무 : 오라클설치 복구(일본 솔루션의 DB백업 파일 복구 )
 - 환경 : Linux, Oracle9i, Java, SpringFramework
 
