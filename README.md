@@ -1,4 +1,35 @@
 
+**Languages and Tools:** 
+
+<p>
+  <a href="https://github.com/jiman94">
+    <img width="55%" align="right" alt="jiman94's github stats" src="https://github-readme-stats.vercel.app/api?username=jiman94&show_icons=true&hide_border=true" />
+  </a>
+
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />  
+</p>
+
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/jiman94/jiman94.svg" />
+</p>
+
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
