@@ -20,33 +20,6 @@
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/jiman94/jiman94.svg" />
 </p>
 
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-
-  <br>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
-</p>
-
-<br>
-
-
-<div align="center" style="text-align:center">
- 
-  
-</div>
   
 <br>
 
@@ -329,6 +302,102 @@
 - IntelliJ
 - Eclipse
 - VSCode
+
+
+
+## 기술 스택  
+
+#### 1. java
+- 1.8 ~ 16 
+- gralvm 
+
+#### 2. Jenkins
+- jira & bitbucket & jenkins Integration 
+- continuous integration (CI) 
+- continuous deployment (CD) 
+
+#### 3. SonarQube
+- PMD ( https://pmd.github.io )
+ - 미사용 변수, 비어있는 코드 블럭, 불필요한 오브젝트 생성과 같은 Defect을 유발할 수 있는 코드를 검사
+- FindBugs ( http://findbugs.sourceforge.net )
+ - 정해진 규칙에 의해 잠재적인 에러 타입을 찾아줌
+- CheckStyle ( http://checkstyle.sourceforge.net )
+ - 정해진 코딩 룰을 잘 따르고 있는지에 대한 분석
+- JaCoCo는 자바 코드 커버리지를 체크하는 데에 사용되는 오픈소스 라이브러리입니다
+
+#### 4. Spring Framework
+- Annotaion 
+- hikaricp ( Connection Pool )
+- Transaction ( Auto-Commit )
+- Logging ( Appliction.yaml )
+
+#### 5. Spring Boot
+- tomcat ( thread , jvm )
+#### 6. Spring Cloud 
+- Spring Cloug Config
+#### 7. Spring Gateway 
+- Routing 
+#### 8. Spring Batch 
+- Multi DataSource ( master / slave )
+- Transaction ( Auto-Commit )
+- Logging ( Appliction.yaml )
+#### 9. Gradle 
+- Multi Module 
+- Docker 
+- AWS ECR push 
+#### 10. Logback ( application.yaml )
+- 백업 
+- 로테이션 
+- 파일 위치 
+#### 11. Swagger 
+#### 12. S3 & CDN 
+- 파일 업로드 
+- 파일 리사이징 
+#### 13. 부정로그인 
+#### 14. 세션 
+- redis 
+#### 15. 캐쉬 
+- redis 
+#### 16. 모니터링 
+- scouter 
+#### 17. AWS 
+- VPC
+- EC2
+- LB
+- s3
+- cloudfront
+- route53
+- RDS PostgreSQL ( 9, 10, 11, 12)
+- RDS Aurora Mysql ( Master / Slave )
+#### 18. EKS
+- Node Group 
+- Auto Scaling
+- Pod ( HPA )
+- pod yaml 
+- ingress yaml 
+- k8s config 
+- aws cli
+- kubectl cli 
+- istio cli 
+- gateway yaml 
+- virtualservice yaml
+- grafana 
+- promethues 
+19. 솔루션 
+- 검색 엔진 
+- 푸시 솔루션
+- 메일 발송 솔루션 
+- 주소 검색 솔루션 
+- Jira  
+- Confluence 
+- Bitbucket 
+- Cubeone 
+20. Docker 
+- Docker 파일 
+
+
+
+
 
 
 ## 교육
