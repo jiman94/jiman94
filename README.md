@@ -97,122 +97,122 @@
 - 업무 : 오라클설치 복구(일본 솔루션의 DB백업 파일 복구 )
 - 환경 : Linux, Oracle9i, Java, SpringFramework
 
-- **34. 롯데카드 차세대멤버스 시스템 구축**
+- **34. 롯데카드 차세대멤버스 시스템 구축 지원**
 - 업무 : 다국어관련 개발지원
 - 환경 : Unix, Oracle11g, Java, SpringFramework, mybatis, Jeus, Webtob, Hudson, Nexus
 
-- **33. 롯데슈퍼 쇼핑몰 시스템**
+- **33. 롯데슈퍼 쇼핑몰 시스템 지원**
 - 업무 : 성능개선 프로젝트 수행 (진단점검 및 개선가이드 보고)
 - 환경 : Unix, Oracle10g, Java, SpringFramework, ibatis, Jeus, Webtob, svn
 
-- **32. 교원그룹 차세대 프로젝트지원**
+- **32. 교원그룹 차세대 프로젝트 지원**
 - 업무 : 어플리케이션 성능개선 ( 개발프레임웍,분산트랜잭션,로그정책,OCI/Thin )
 - 환경 : Linux, Oracle11g, Java, webLogic
 
-- **31. 롯데호텔 글로벌ERP 시스템 구축**
+- **31. 롯데호텔 글로벌ERP 시스템 구축 지원**
 - 업무 : 개발사 프레임웍 분석 및 성능개선 지원 ( ibatis 패치 )
 - 환경 : Linux, Oracle11g, Java, SpringFramework, Jeus, Webtob
 
-- **30. 대한통운 물류솔루션 분석(첼로 전버전)**
+- **30. 대한통운 물류솔루션 분석(첼로 전버전) 지원**
 - 업무 : 어플리케이션 분석
 - 환경 : Unix, DB2, Java, SpringFramework, Jeus, Webtob
 
-- **29. 롯데 멤버스 LPush 프로젝트**
+- **29. 롯데 멤버스 LPush 프로젝트 지원**
 - 업무 : 클라우드 IAAS에 시스템설계/구축(FreeBSD 설치 및 SW설치)
 - 환경 : Linux, Couchdb , Erlang
 
-- **28. 그룹통합 전자계약 시스템 고도화**
+- **28. 그룹통합 전자계약 시스템 고도화  지원**
 - 업무 : 서울보증보험연계, WAS환경설계 지원, 어플리케이션구성 설계 지원
 - 환경 : Unix, Oracle11g, Java, Jeus, Webtob
 
-- **27. 롯데마트 스마트쿠폰 시스템 구축**
+- **27. 롯데마트 스마트쿠폰 시스템 구축  지원**
 - 업무 : 어플리케이션 설계 ( java & Servlet & WAS)
 - 환경 : Linux, Oracle11g, Java, SpringFramework, mybatis, Weblogic, Maven, svn
 
-- **26. 롯데푸드 DR구축**
+- **26. 롯데푸드 DR구축  지원**
 - 업무 : 개발환경분석/운영환경분석/DR환경구축 및 테스트
 - 환경 : Linux/Windows, MS-SQL, Java, weblogic, svn
 
-- **25. 이비카드 성능개선 프로젝트**
+- **25. 이비카드 성능개선 프로젝트  지원**
 - 업무 : WAS/JVM/오라클 진단, 결재시스템 성능개선 서버 사이징, Tomcat 서비스 다운 원인 파악
 
-- **24. 롯데건설 에너지관리 시스템 (온실가스)**
+- **24. 롯데건설 에너지관리 시스템 (온실가스) 지원**
 - 업무 : 성능개선 프로젝트 수행 (진단점검 및 성능개선), 운영자개발교육, 개발프레임웍 지원
 - 환경 : Windows, MS-SQL, Java, nginx, Tomcat, Hudson, nexus, svn
 
-- **23. 롯데백화점 모바일쇼핑몰 시스템**
+- **23. 롯데백화점 모바일쇼핑몰 시스템  지원**
 - 업무 : 성능개선 프로젝트 수행 ( TPS에 따라 시스템 재설계 )
 - 환경 : Unix, Oracle11g, Java, SpringFramework, ibatis, Jeus, Webtob, svn
 
-- **22. 롯데마트 인디멤버스회원관리 시스템 구축**
+- **22. 롯데마트 인디멤버스회원관리 시스템 구축  지원**
 - 업무 : 어플리케이션튜닝(OOM), WAS튜닝(세션클러스터링, 세션공유)
 - 환경 : Windows, Oracle11g, Java, SpringFramework, ibatis, Websphere, Maven, svn
 
-- **21. 농림신문 통합전산시스템 구축**
+- **21. 농림신문 통합전산시스템 구축  지원**
 - 업무 : 어플리케이션 설계(세션공유문제), 오라클 DB 장애
 - 환경 : Unix, Oracle11g, Java, SpringFramework, ibatis, Jeus, Webtob, svn
 
-- **20. 롯데캐피탈 계정계인프라고도화 시스템 구축**
+- **20. 롯데캐피탈 계정계인프라고도화 시스템 구축  지원**
 - 업무 : 서비스 장애 이슈 지원 ( OOM, WAS의 다운 현상 )
 - 환경 : Unix, Oracle11g, Java, Jeus, Webtob
 
-- **19. 롯데제과 유통사업본부 M-SPA**
+- **19. 롯데제과 유통사업본부 M-SPA  지원**
 - 업무 : 어플리케이션 성능개선 프로젝트 수행 ( 진단점검 및 성능개선 )
 - 환경 : Windows, MS-SQL, Node.js, Java, Tomcat, Jeus, Webtob, svn
 
-- **18. 공무원연금공단 맞춤형복지 시스템**
+- **18. 공무원연금공단 맞춤형복지 시스템  지원**
 - 업무 : 어플리케이션 성능개선 프로젝트 수행 ( 진단점검 및 성능개선 )
 - 환경 : Unix, Oracle9i, Java, Jboss
 
-- **17. 공무원연금공단 신통합전략경영시스템 ( SDS의 엔터프라이즈 프레임웍 )**
+- **17. 공무원연금공단 신통합전략경영시스템 ( SDS의 엔터프라이즈 프레임웍 )  지원**
 - 업무 : 어플리케이션 성능개선 프로젝트 수행 ( 진단점검 및 성능개선 ), OOM, WAS의 다운 현상 원인 파악 및 조치
 - 환경 : Unix, Oracle10g, Java, SDS Enterprise, Jeus, Webtob, Hudson , svn
 
-- **16. 롯데홈쇼핑 쇼핑몰(아이몰) 시스템**
+- **16. 롯데홈쇼핑 쇼핑몰(아이몰) 시스템  지원**
 - 업무 : 성능개선 프로젝트 수행 (진단점검 및 개선가이드 보고), 아이몰 재구축 지원
 - 환경 : Linux, Oracle11g, Java, SpringFramework, ibatis, Jeus, Webtob, Hudson, svn
 
-- **15. 롯데칠성 에너지관리 시스템 (온실가스)**
+- **15. 롯데칠성 에너지관리 시스템 (온실가스)  지원**
 - 업무 : 성능개선 프로젝트 수행 (진단점검 및 성능개선), 운영자개발교육. 개발프레임웍 지원
 - 환경 : Windows, MS-SQL, Java, nginx, Tomcat, Hudson, nexus, svn
 
-- **14. 롯데마트 통합온라인사이트(문화센터) 시스템 구축**
+- **14. 롯데마트 통합온라인사이트(문화센터) 시스템 구축  지원**
 - 업무 : Java 개발 프레임웍 지원, 개발자교육, 어플리케이션튜닝, WAS튜닝, 장애지원, 보안코딩가이드교육, 성능테스트, 운영자교육
 - 환경 : Unix, Oracle11g, Java, SpringFramework, ibatis, Jeus, Webtob, Maven, Hudson, Oden, svn, nexus
 
-- **13. 롯데마트 오픈QR 시스템 구축**
+- **13. 롯데마트 오픈QR 시스템 구축  지원**
 - 업무 : 프로젝트 PM, 개발자교육, OSS사용.
 - 환경 : Windows, Java, SpringFramework, Apache, Tomcat, Maven, svn, nexus
 
-- **12. 롯데백화점 쇼핑몰(엘롯데) 시스템**
+- **12. 롯데백화점 쇼핑몰(엘롯데) 시스템  지원**
 - 업무 : 성능개선 프로젝트 수행 (진단점검 및 성능테스트 수행 후 운영팀과 문제점 개선)
 - 환경 : Unix, Oracle11g, Java, SpringFramework, ibatis, Jeus, Webtob, svn
 
-- **11. 롯데마트 쇼핑몰 시스템 구축**
+- **11. 롯데마트 쇼핑몰 시스템 구축  지원**
 - 업무 : Java 개발 프레임웍 지원, 개발자교육, 어플리케이션튜닝, WAS튜닝, 장애지원, 보안코딩가이드교육, 성능테스트, 운영자교육
 - 환경 : Unix, Oracle11g, Java, SpringFramework, ibatis, Jeus, Webtob, Maven, Hudson, Oden, svn, nexus
 
-- **10. 롯데마트 다보증 시스템 구축**
+- **10. 롯데마트 다보증 시스템 구축  지원**
 - 업무 : Java 개발프레임웍지원, 개발자교육, 어플리케이션 튜닝
 - 환경 : Windows, MS-SQL, Java, SpringFramework, Jeus, Webtob, Maven, svn, nexus
 
-- **9. 롯데마트 동반성장 시스템 구축**
+- **9. 롯데마트 동반성장 시스템 구축  지원**
 - 업무 : Java 개발프레임웍지원, 개발자교육, 어플리케이션 튜닝
 - 환경 : Windows, MS-SQL, Java, SpringFramework, Jeus, Webtob, Maven, svn, nexus
 
-- **8. 롯데마트 상권관리 시스템**
+- **8. 롯데마트 상권관리 시스템  지원**
 - 업무 : 개발프레임웍튜닝, 어플리케이션 튜닝
 - 환경 : Windows, DB2, Java, Struts, Apache, Tomcat, ant, csv
 
-- **7. 롯데자이언츠 티켓예매 시스템 구축**
+- **7. 롯데자이언츠 티켓예매 시스템 구축 지원**
 - 업무 : 어플리케이션 튜닝
 - 환경 : Linux/Windows/Unix, Oracle/MS-SQL, Java, C++ , Jeus, Webtob, IIS, .Net, Flash
 
-- **6. 그룹통합 전자세금계선 ASP 시스템 구축**
+- **6. 그룹통합 전자세금계선 ASP 시스템 구축 지원**
 - 업무 : 기술지원 및 어플리케이션 튜닝
 - 환경 : Windows, MS-SQL, Java, C++, Apache, Tomcat/Resign/Jeus, csv
 
-- **5. 롯데유화 e-Collaboration 시스템 구축**
+- **5. 롯데유화 e-Collaboration 시스템 구축 지원**
 - 업무 : 시스템설계/구축, 개발프레임웍튜닝, 어플리케이션 튜닝, 운영자교육, 개발자교육
 - 환경 : Windows, MS-SQL, Java, Jeus, Webtob, csv, SAP JCO
 
