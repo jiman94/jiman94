@@ -62,6 +62,7 @@
 - 2021.09 ~ : MSA 아키텍트 
 - CI/CD 구성 ( gitlabci , kaniko ) 
 - ConfigMap , s3 , CDN , Spring Cloud Config
+- 성능테스트 nGrinder , Jmeter 
 
 #### 2. SKE ( Car Care Platform ) - MSA 아키텍처 구축 
 - 기간 : [2021.00.00 ~ ]
