@@ -313,9 +313,8 @@
 - https://code.visualstudio.com/docs/?dv=osx
 
 ### MSA Cloud  
-- AWS 
-- Azure
-- GCP 
+- AWS ( 신세계 , 대교 ) 
+- Azure ( SKI ) 
 
 ### DevSecOps
 - Docker
@@ -359,12 +358,10 @@
 - Eclipse
 - VSCode
 
-
-
 ## 기술 스택  
 
 #### 1. java
-- 1.8 ~ 16 
+- 1.8 ~ 17 
 - gralvm 
 
 #### 2. Jenkins
@@ -451,15 +448,7 @@
 20. Docker 
 - Docker 파일 
 
-
-
-
-
-
 ## 교육
 
 * k8s와 gitlab(+ArgoCD)을 이용해 CI/CD 플랫폼 구축
 https://www.youtube.com/watch?v=-hO1m__aLu8
-
-
-
