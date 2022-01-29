@@ -22,8 +22,8 @@
 
 
 <!-- 기술스택 시작 -->
-<div align='left'><h3><b>🛠 Tech Stack </b></h3>
-
+<div align='left'>
+  
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
