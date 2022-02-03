@@ -105,11 +105,12 @@
 
 ## 기술 공부 
 - CQRS 관련 프레임웍 분석/설계 
-- eventuate f/w 소스 빌드 및 테스트 
+- Eventuate f/w 소스 빌드 및 테스트 
 - Debezium f/w 소스 빌드 및 테스트 
-- elasticsearch 소스 빌드 및 테스트 
+- Elasticsearch 소스 빌드 및 테스트 
 - Telemetry 환경 구성 
 - Service Mesh 비교 및 테스트
+- Quarkus vs Spring Boot vs Micronaut 비교 및 테스트
 
 
 ## 회사경력 및 프로젝트 이력
