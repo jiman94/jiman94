@@ -111,7 +111,11 @@
 - Telemetry 환경 구성 
 - Service Mesh 비교 및 테스트
 - Quarkus vs Spring Boot vs Micronaut 비교 및 테스트
-
+- CI/CD 환경 구성 
+- Terraform 환경 구성 
+- Jenkinx 설치 
+- Argo 설치 
+- Gitlab 설치 
 
 ## 회사경력 및 프로젝트 이력
 
