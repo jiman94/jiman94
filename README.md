@@ -117,6 +117,8 @@
 - Argo 설치 
 - Gitlab 설치 
 - Jira & Bitbucket & Confluece 환경 구성 
+- Kafka 환경 구성 
+- Mongo 환경 구성 
 
 ## 회사경력 및 프로젝트 이력
 
