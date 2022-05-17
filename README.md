@@ -147,13 +147,20 @@
 
 ## 회사경력 및 프로젝트 이력
 
-### 메가존 DX Labs 차장 -  ( 2020. 02 ~ 재직중 )
+### 메가존 Architect Labs / Platform Architect 부장 -  ( 2020. 02 ~ 재직중 )
+- 
+#### 5. lGU+ 개인화스쿼드
+- 2022.04 ~ : MSA 아키텍트 
+
+#### 4. lGU+ MSA IPTV
+- 2022.03 ~ : MSA 아키텍트 
 
 #### 3. 대교 - MSA 아키텍처 구축 - MSA 아키텍트 
 - 2021.09 ~ : MSA 아키텍트 
 - CI/CD 구성 ( gitlabci , kaniko ) 
 - ConfigMap , s3 , CDN , Spring Cloud Config
 - 성능테스트 nGrinder , Jmeter 
+- 2차 오픈 지원 
 
 #### 2. SKE ( Car Care Platform ) - MSA 아키텍처 구축 
 - 기간 : [2021.00.00 ~ ]
