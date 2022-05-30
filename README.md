@@ -150,15 +150,15 @@
 ### 메가존 Architect Labs / Platform Architect 부장 -  ( 2020. 02 ~ 재직중 )
 - 
 #### 5. lGU+ 개인화스쿼드
-- 2022.04 ~ : MSA 아키텍트 
+- 2022.04 ~ : MSA 아키텍트 ( 인프라 구성 및 멀티클라우드 구성 지원 ) 
 
 #### 4. lGU+ MSA IPTV
-- 2022.03 ~ : MSA 아키텍트 
+- 2022.03 ~ : MSA 아키텍트 ( 오픈 모니터링 지원) 
 
 #### 3. 대교 - MSA 아키텍처 구축 - MSA 아키텍트 
 - 2021.09 ~ : MSA 아키텍트 
-- CI/CD 구성 ( gitlabci , kaniko ) 
-- ConfigMap , s3 , CDN , Spring Cloud Config
+- CI/CD 구성 ( gitlab ) 
+- ConfigMap , S3
 - 성능테스트 nGrinder , Jmeter 
 - 2차 오픈 지원 
 
