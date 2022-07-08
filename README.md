@@ -150,8 +150,14 @@
 ### 메가존 Architect Labs / Platform Architect 부장 -  ( 2020. 02 ~ 재직중 )
 
 
-#### 11. 롯데 홈쇼핑 차세대 PI 제안  
+#### 12. 롯데 홈쇼핑 차세대 PI 제안  
 - 2022.07 ~ : MSA 아키텍트 ( 인프라 구성 제안작업 )
+
+#### 11. Mega-Message 프로젝트   
+- 2022.07 ~ : MSA 아키텍트 
+- MSA 인프라 설계 및 구축  
+- AWS 설계, Kubernetes 구성 , Istio 구성 , DevOps 구성 ( 애플리케이션 Pipeline ) , Docker 빌드 / 배포 환경 구성, 애플리케이션 pod 설계 구성
+
 
 #### 10. 삼성잔자 IT 플랫폼 ( API 7종 )   
 - 2022.07 ~ : 개발 환경 지원 및 개발 
@@ -226,7 +232,7 @@
 - 업무 : TA, AS-IS 시스템 분석 서버 사이징, 프레임웍 지원
 - 환경 : Linux, Oracle , Hadoop, Java, Centos , Tez, kafka, spark, hadoop, cep, drools
 
-#### 롯데정보통신 기술연구소 - 12년 5개월 ( 2003. 04 ~ 2015. 08 )
+#### 롯데정보통신  - 12년 5개월 ( 2003. 04 ~ 2015. 08 )
 - **35. 마크로빌**
 - 업무 : 오라클설치 복구(일본 솔루션의 DB백업 파일 복구 )
 - 환경 : Linux, Oracle9i, Java, SpringFramework
