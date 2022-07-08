@@ -109,6 +109,13 @@
   
 <br>
 
+
+### 메가존디지털 Architect Labs / Platform Architect 팀 채용 문의 
+- Email : jmryu@mz.co.kr
+- 1년 만 같이 해 볼 사람 연락 주세요. ( 개발자 , 아키텍트 )  
+
+
+
 ## 삶  
 
 #### 1. 주어진 삶에 적응하라.
