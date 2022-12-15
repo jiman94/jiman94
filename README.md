@@ -161,6 +161,7 @@
 - https://docs.flutter.dev/get-started/install/macos
 - https://brew.sh/index_ko 
 - https://sdkman.io/
+- https://nomadcoders.co/courses
  
 ## 회사경력 및 프로젝트 이력
 
