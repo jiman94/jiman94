@@ -152,6 +152,16 @@
 - Kafka 환경 구성 
 - Mongo 환경 구성 
 
+##
+- https://landscape.cncf.io/card-mode?category=service-mesh&grouping=category
+- https://leetcode.com/
+- https://github.com/codespaces
+- https://dartpad.dev/
+- https://openai.com/blog/chatgpt/
+- https://docs.flutter.dev/get-started/install/macos
+- https://brew.sh/index_ko 
+- https://sdkman.io/
+ 
 ## 회사경력 및 프로젝트 이력
 
 ### 메가존 Architect Labs / Platform Architect 부장 -  ( 2020. 02 ~ 재직중 )
