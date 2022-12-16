@@ -166,6 +166,7 @@
 - https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot
 - https://github.com/eGovFramework/
 - https://github.com/eGovFramework/egovframe-msa-edu
+- https://docs.flutter.dev/development/tools/vs-code#updating
 
 
 ## 회사경력 및 프로젝트 이력
