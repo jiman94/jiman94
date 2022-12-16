@@ -163,7 +163,11 @@
 - https://sdkman.io/
 - https://nomadcoders.co/courses
 - https://github.com/PaaS-TA/
- 
+- https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot
+- https://github.com/eGovFramework/
+- https://github.com/eGovFramework/egovframe-msa-edu
+
+
 ## 회사경력 및 프로젝트 이력
 
 ### 메가존 Architect Labs / Platform Architect 부장 -  ( 2020. 02 ~ 재직중 )
