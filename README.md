@@ -54,7 +54,10 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/AJAX-2E77BC?style=flat-square&logo=Betfair&logoColor=white">
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=fffff">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black" />  <br />   
 
   <!--<img src="https://img.shields.io/badge/JPA-232F3E?style=flat-square&logo=Spreadshirt&logoColor=white"/>-->
   <br>
@@ -92,10 +95,7 @@
   <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="bitbucket" width="160" height="60" />
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="160" height="80" />
 
-  <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=fffff">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black" />  <br /> 
+
 
 </p>
 
