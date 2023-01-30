@@ -145,20 +145,16 @@
 - CQRS 관련 프레임웍 분석/설계 
 - Eventuate f/w 소스 빌드 및 테스트 
 - Debezium f/w 소스 빌드 및 테스트 
-- Elasticsearch 소스 빌드 및 테스트 
 - Telemetry 환경 구성 
 - Service Mesh 비교 및 테스트
-- Quarkus vs Spring Boot vs Micronaut 비교 및 테스트
 - CI/CD 환경 구성 
 - Terraform 환경 구성 
-- Jenkinx 설치 
 - Argo 설치 
-- Gitlab 설치 
-- Jira & Bitbucket & Confluece 환경 구성 
-- Kafka 환경 구성 
-- Mongo 환경 구성 
+- deep-learning
+
 
 ##
+- https://chat.openai.com/
 - https://landscape.cncf.io/card-mode?category=service-mesh&grouping=category
 - https://leetcode.com/
 - https://github.com/codespaces
