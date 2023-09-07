@@ -154,6 +154,9 @@
 
 
 ##
+
+- https://github.com/Microsoft/ApplicationInspector
+
 - https://chat.openai.com/
 - https://landscape.cncf.io/card-mode?category=service-mesh&grouping=category
 - https://leetcode.com/
