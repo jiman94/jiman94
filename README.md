@@ -25,6 +25,9 @@
 
 ### 메가존 Architect Labs / Platform Architect 부장 -  ( 2020. 02 ~ 재직중 )
 
+#### 22. 호반건설 기술 지원  
+- Azure 인프라 환경 구성 이슈 , AKS Pods 구성 이슈  , 어플리케이션 F/W 구성 이슈  
+  
 #### 21. PTC 데모 환경 구성 
 - Thingworx
 - Codebeamer
